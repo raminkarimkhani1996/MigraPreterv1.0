@@ -1,0 +1,8 @@
+c:\users\piyadist\documents\visual studio 2013\Projects\Migrator\Migrator\bin\Debug\Migrator.exe
+c:\users\piyadist\documents\visual studio 2013\Projects\Migrator\Migrator\bin\Debug\Migrator.pdb
+c:\users\piyadist\documents\visual studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrator.csprojResolveAssemblyReference.cache
+c:\users\piyadist\documents\visual studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrator.Form1.resources
+c:\users\piyadist\documents\visual studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrator.Properties.Resources.resources
+c:\users\piyadist\documents\visual studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrator.csproj.GenerateResource.Cache
+c:\users\piyadist\documents\visual studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrator.exe
+c:\users\piyadist\documents\visual studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrator.pdb
